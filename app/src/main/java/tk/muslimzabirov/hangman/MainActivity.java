@@ -16,4 +16,9 @@ public class MainActivity extends AppCompatActivity {
     public void startSinglePlayerGame(View view){
 
     }
+
+    int multiplyNumbers(int num1, int num2){
+        int result = num1 * num2;
+        return result;
+    }
 }
